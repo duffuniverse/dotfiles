@@ -118,6 +118,7 @@ set clipboard=unnamed
 set clipboard=unnamedplus
 
 map <C-n> :NERDTreeToggle<CR>
+map <C-p> :Files!<CR>
 
 set background=dark
 colorscheme hybrid
